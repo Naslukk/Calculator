@@ -1,0 +1,36 @@
+.mainBody{
+    width: 400px;
+    height: 500px;
+    background-color: darkslateblue;
+    border-radius: 10px;
+    margin-left: 500px;
+    padding: 20px;
+    
+}
+#display{
+    width: 360px;
+    height: 80px;
+    margin-left: 25px;
+    border-radius: 10px;
+    background-color: #ffff;
+}.raw{
+    width: 360px;
+    height: 50px;
+    margin-left: 25px;
+    padding-top: 30px ;
+}.btn{
+    width: 80px;
+    height: 50px;
+    border-radius: 10px;
+    border: onne;
+   margin-left: 5px;
+   font-size: 20px;
+   font-weight: bold;
+}#screen{
+    width: 360px;
+    height: 80px;
+    text-align: right;
+    font-size: 30px;
+    font-weight: bold;
+    pointer-events: none;
+}
